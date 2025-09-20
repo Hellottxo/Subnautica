@@ -63,3 +63,5 @@ onlyBuiltDependencies:
   - cypress
   - esbuild
   - simple-git-hooks
+catalog:
+  '@antv/g6': ^5.0.49
