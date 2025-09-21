@@ -165,7 +165,7 @@ onUnmounted(() => {
         </div>
       </div>
       <div flex items-center opacity-75>
-        <em>关注B站<a font-bold underline class="text-[#00f7ff]" href="https://space.bilibili.com/22022022" target="_blank">SilentXo</a>，一起玩游戏呀！</em>
+        <em>关注B站<a font-bold underline class="text-[#00f7ff]" href="https://space.bilibili.com/3945697" target="_blank">SilentXo</a>，一起玩游戏呀！</em>
         <div class="text-[#00f7ff]" i-carbon:quotes ml-2 inline-block h-8 w-8 rotate-180 text-op-80 />
       </div>
     </div>
